@@ -1,5 +1,5 @@
 
-AI Interview Coach
+#AI Interview Coach#
 
 Author: Krish
 
