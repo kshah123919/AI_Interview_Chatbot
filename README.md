@@ -23,7 +23,10 @@ Web-based chat UI
 🛠 **Tech Stack**
 
 Frontend: HTML, CSS, JavaScript
+<br></br>
 Backend: Python, Flask
+<br></br>
 AI: Gemini API
+<br></br>
 Storage: JSON-based interview memory
 
