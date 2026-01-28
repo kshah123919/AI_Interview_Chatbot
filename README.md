@@ -1,4 +1,4 @@
-🤖 AI Interview Coach
+🤖 **AI Interview Coach**
 
 Author: Krish Shah
 
@@ -6,7 +6,7 @@ AI-powered interview practice chatbot that simulates real interview experiences 
 
 This project started as a command-line application and was later extended into a full-stack web app with an interactive chat interface.
 
-🚀 Features
+🚀 **Features**
 
 Role-based interview flows (Software, Frontend, Backend, Data, ML, DevOps, Security)
 
@@ -20,7 +20,7 @@ Memory of previous responses for contextual evaluation
 
 Web-based chat UI
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Frontend: HTML, CSS, JavaScript
 Backend: Python, Flask
